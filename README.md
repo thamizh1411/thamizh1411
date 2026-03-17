@@ -3,7 +3,9 @@
 I'm currently pursuing my B.Tech in Information Technology at National Engineering College <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                 
 - 🌱 I’m currently learning DSA
-- Engineeing at [<img src = "https://www.jagranjosh.com/colleges/national-engineering-college-nec-kovilpatti-1281" alt="desc">](https://nec.edu.in/),
+Engineering at <a href="https://nec.edu.in/">
+  <img src="https://nec.edu.in/wp-content/uploads/2020/07/logo.png" alt="NEC" width="120">
+</a>
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
 
